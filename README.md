@@ -4,7 +4,7 @@
 I'm a student and I have a passion for developing web applications.
 
 ## 🚀 Skills
-- **Languages**: [HTML, CSS, JavaScript, React Native]
+- **Languages**: HTML, CSS, JavaScript, React Native
 
 ## 💻 Project
 My favorite project:
