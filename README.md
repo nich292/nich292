@@ -1,7 +1,7 @@
 # Hi there, I'm @nich292 👋
 
 ## 👤 About Me
-I'm a student and I have a passion for developing web applications.
+I'm a student and I have a passion for developing mobile & web applications.
 
 ## 🚀 Skills
 - **Languages**: HTML, CSS, JavaScript, React Native
